@@ -1,7 +1,16 @@
 .head{
     padding: 1px;
     text-align: center;
-    size: 12px;
+    size: 25px;
     color: red;
     background-color: aqua;
+}
+
+.paragraph{
+    text-align: center;
+    background: fixed;
+    color: maroon;
+    font-size: large;
+    box-sizing: border-box;
+    background-color: chartreuse;
 }
